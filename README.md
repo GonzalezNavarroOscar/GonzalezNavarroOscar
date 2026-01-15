@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Oscar González
+# 👋 Hello there
+
+I'm Oscar González
 
 Student & Developer | Software & Systems Projects | Energy & Smart Systems Enthusiast
 
