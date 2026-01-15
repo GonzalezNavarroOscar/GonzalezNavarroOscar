@@ -1,8 +1,6 @@
-# 👋 Hello there
+# 🚀 Oscar González
 
-I'm Oscar González
-
-Student & Developer | Software & Systems Projects | Energy & Smart Systems Enthusiast
+**`Student & Developer | Software & Systems Projects | Energy & Smart Systems Enthusiast`**
 
 I'm a passionate developer focused on building practical systems that solve real-world problems.  
 I enjoy working on **web applications, backend systems, databases, and automation projects with python**, and I’m especially interested in projects related to **intelligent systems**.
