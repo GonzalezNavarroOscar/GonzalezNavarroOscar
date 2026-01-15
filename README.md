@@ -102,7 +102,8 @@ I enjoy working on **web applications, backend systems, databases, and automatio
 
 ## Personal stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonzalezNavarroOscar&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonzalezNavarroOscar&show_icons=true&theme=tokyonight)
+
 
 ## 🤝 Let's Connect
 
