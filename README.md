@@ -19,7 +19,7 @@ I enjoy working on **web applications, backend systems, databases, and automatio
 ## Technologies & Tools
 
 ### Programming Languages
-
+<p alignment='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=40px alt='C' tittle='C' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=40px alt='C#' tittle='C#' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=40px alt='C++' tittle='C++' style='padding-right:10px'/>
@@ -32,6 +32,7 @@ I enjoy working on **web applications, backend systems, databases, and automatio
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width=40px alt='Arduino' tittle='Arduino' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=40px alt='Kotlin' tittle='Kotlin' style='padding-right:10px'/>
 <br />
+</p>
 
 ### Web Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=40px alt='HTML5' tittle='HTML5' style='padding-right:10px'/>
