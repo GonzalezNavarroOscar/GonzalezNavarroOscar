@@ -106,13 +106,18 @@ I enjoy working on **web applications, backend systems, databases, and automatio
 
 ---
 
-## Stats
+<h2 align="center">Stats</h2>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gonzaleznavarrooscar&show_icons=true&theme=tokyonight&title_color=a6e1fa&icon_color=a6e1fa)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gonzaleznavarrooscar&show_icons=true&theme=tokyonight&title_color=a6e1fa&icon_color=a6e1fa" />
+</p>
 
-## Top Langs
+<h2 align="center">Top Langs</h2>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gonzaleznavarrooscar&layout=compact&theme=tokyonight&title_color=a6e1fa)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gonzaleznavarrooscar&layout=compact&theme=tokyonight&title_color=a6e1fa" />
+</p>
+
 
 
 ## 🤝 Let's Connect
