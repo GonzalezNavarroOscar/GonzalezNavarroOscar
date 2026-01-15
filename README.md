@@ -100,13 +100,19 @@ I enjoy working on **web applications, backend systems, databases, and automatio
 
 ---
 
-## Personal stats
+## On what i've working lately
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzaleznavarrooscar&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaleznavarrooscar&layout=compact&theme=github_dark" height="165"/>
-</p>
+- Archive Data Processor (Data Loom) with C++ and Python
 
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gonzaleznavarrooscar&show_icons=true&theme=tokyonight&title_color=a6e1fa&icon_color=a6e1fa)
+
+## Top Langs
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gonzaleznavarrooscar&layout=compact&theme=tokyonight&title_color=a6e1fa)
 
 
 ## 🤝 Let's Connect
