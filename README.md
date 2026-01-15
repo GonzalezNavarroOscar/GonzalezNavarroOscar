@@ -102,7 +102,11 @@ I enjoy working on **web applications, backend systems, databases, and automatio
 
 ## Personal stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonzalezNavarroOscar&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gonzaleznavarrooscar&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaleznavarrooscar&layout=compact&theme=github_dark" height="165"/>
+</p>
+
 
 
 ## 🤝 Let's Connect
