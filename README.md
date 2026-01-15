@@ -35,27 +35,34 @@ I enjoy working on **web applications, backend systems, databases, and automatio
 </p>
 
 ### Web Development
+<p alignment='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=40px alt='HTML5' tittle='HTML5' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=40px alt='CSS3' tittle='CSS3' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=40px alt='TailwindCSS' tittle='TailwindCSS' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40px alt='React' tittle='React' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=40px alt='Bootstrap' tittle='Bootstrap' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width=40px alt='Vuejs' tittle='Vuejs' style='padding-right:10px'/>
+</p>
 
 ### Android Development
+<p alignment='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=40px alt='Flutter' tittle='Flutter' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width=40px alt='AndroidStudio' tittle='AndroidStudio' style='padding-right:10px'/>
+</p>
 
 ### Databases
+<p alignment='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width=40px alt='MariaDB' tittle='MariaDB' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=40px alt='MySQL' tittle='MySQL' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=40px alt='PostgreSQL' tittle='PostgreSQL' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width=40px alt='SQLite' tittle='SQLite' style='padding-right:10px'/>
 <br />
+</p>
 
 - SQL design (ER diagrams, roles, privileges and query's)
 
 ### Other Tools
+<p alignment='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=40px alt='git' tittle='git' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=40px alt='github' tittle='github' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width=40px alt='flask' tittle='flask' style='padding-right:10px'/>
@@ -70,6 +77,7 @@ I enjoy working on **web applications, backend systems, databases, and automatio
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg"  width=40px alt='Ngrok' tittle='Ngrok' style='padding-right:10px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40px alt='vscode' tittle='vscode' style='padding-right:10px'/>
 <br />
+</p>
 
 - Numerical Methods
 
