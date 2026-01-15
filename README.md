@@ -100,7 +100,7 @@ I enjoy working on **web applications, backend systems, databases, and automatio
 
 ---
 
-## On what i've working lately
+## What I’ve been working on lately
 
 - Archive Data Processor (Data Loom) with C++ and Python
 
